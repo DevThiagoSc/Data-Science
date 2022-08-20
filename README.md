@@ -4,4 +4,4 @@ Projetos:
 
 mediaMediana: desenvolvido com biblioteca Pandas do Python com o intuíto de calcular a média e mediana das notas de um arquivo de dados sobre avaliação de filmes.
 
-MediaFilme: desenvolvido com bibliotecas Pandas e Seaborn do Python, plotando um histograma do Pandas e um do Seabornpara exibir frequência das notas atribuídas em arquivo csv.
+MediaFilme: desenvolvido com bibliotecas Pandas e Seaborn do Python, plotando um histograma do Pandas e um do Seaborn para exibir frequência das notas atribuídas em arquivo csv.
